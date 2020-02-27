@@ -26,7 +26,7 @@ index 69c1052..3e2324e 100644
 -                _ -> {tag, MaybeTag}
 -            end
 -    end,
-+DefaultDepRef = {tag, "v4.0-beta.4"},
++DefaultDepRef = {tag, "v4.0.3"},
  
  %% ==============================================================================
  %% Relx configs

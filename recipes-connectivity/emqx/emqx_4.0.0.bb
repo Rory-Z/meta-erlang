@@ -12,4 +12,4 @@ SRC_URI += "\
     "
 
 REBAR3_PROFILE = "emqx"
-REBAR3_RELEASE = "emqx-v4.0-beta.4"
+REBAR3_RELEASE = "emqx-v4.0.3"
